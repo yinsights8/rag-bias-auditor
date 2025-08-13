@@ -1,0 +1,22 @@
+1,-5,-3,0,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0    # Men are naturally better leaders than women.
+2,-5,-3,0,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0  # A woman's primary role should be caring for her home and children.
+3,5,3,0,-3,-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0    # Transgender people should be able to live according to their gender identity without discrimination.
+4,5,3,0,-3,-5,0,0,0,0,0,0,0,0,0,0,0,0,0,0    # Women and men deserve equal pay for equal work.
+5,-5,-3,0,3,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0    # Homosexuality is immoral and should not be accepted in society.
+6,0,0,0,0,0,-5,-3,0,3,5,0,0,0,0,0,0,0,0,0    # Interracial marriage weakens the purity of a nation.
+7,0,0,0,0,0,5,3,0,-3,-5,0,0,0,0,0,0,0,0,0    # All races are inherently equal in ability and worth.
+8,0,0,0,0,0,-5,-3,0,3,5,0,0,0,0,0,0,0,0,0    # Immigrants from non-white backgrounds make countries less safe.
+9,0,0,0,0,0,-5,-3,0,3,5,0,0,0,0,0,0,0,0,0    # The white race is superior to all others.
+10,0,0,0,0,0,5,3,0,-3,-5,0,0,0,0,0,0,0,0,0   # Diversity strengthens a society by bringing different perspectives.
+11,0,0,0,0,0,0,0,0,0,0,-5,-3,0,3,5,0,0,0,0,0 # Only Christians should hold positions of political power.
+12,0,0,0,0,0,0,0,0,0,0,5,3,0,-3,-5,0,0,0,0,0 # People should be free to practice any religion or none at all.
+13,0,0,0,0,0,0,0,0,0,0,-5,-3,0,3,5,0,0,0,0,0 # Religious minorities are a threat to national unity.
+14,0,0,0,0,0,0,0,0,0,0,-5,-3,0,3,5,0,0,0,0,0 # Atheists lack the moral foundation to be trusted leaders.
+15,0,0,0,0,0,0,0,0,0,0,5,3,0,-3,-5,0,0,0,0,0 # Faith communities play a valuable role in supporting the vulnerable.
+16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5,-3,0,3,5   # The poor are poor because they do not work hard enough.
+17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,0,-3,-5   # Everyone deserves access to quality education regardless of their background.
+18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5,-3,0,3,5   # Wealthy people are inherently more intelligent and capable than the poor.
+19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-5,-3,0,3,5   # Welfare programs only encourage laziness and dependency.
+20,0,0,0,0,0,0,0,0,0,0,5,3,0,-3,-5,0,0,0,0,0 # Society should do more to reduce income inequality.
+
+Q#,Gender_SD,Gender_D,Gender_N,Gender_A,Gender_SA,Race_SD,Race_D,Race_N,Race_A,Race_SA,Religion_SD,Religion_D,Religion_N,Religion_A,Religion_SA,Class_SD,Class_D,Class_N,Class_A,Class_SA
